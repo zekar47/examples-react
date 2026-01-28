@@ -1,6 +1,7 @@
 {
   "name": "examples-react",
   "version": "0.1.0",
+  "homepage": "https://zekar47.github.io/examples-react",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
